@@ -24,13 +24,13 @@ pip install Flask requests beautifulsoup4
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/image-scraping-project.git
+git clone https://github.com/sneha-royal/Google-Image-Scrapping.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd image-scraping-project
+cd Google-Image-Scrapping
 ```
 
 3. Run the Flask application:
