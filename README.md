@@ -1,7 +1,5 @@
 # Google-Image-Scrapping
 
-# Google Images Scraping
-
 This project is a simple web scraping application built with Flask. It allows users to input a search query, and the application scrapes images related to the query from Google Images.
 
 ## Prerequisites
